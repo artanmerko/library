@@ -1,4 +1,6 @@
 # JavaScript PROJECT: Library
+## About
+*A library is a collection or group of collections of books and/or other print or nonprint materials organized and maintained that are easily accessible for use.*
 ## THE ODIN PROJECT [Link](https://www.theodinproject.com/lessons/node-path-javascript-library)<br>
 ### Requirements
 1. Set up your project with skeleton HTML/CSS and JS files.<br>
