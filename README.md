@@ -2,7 +2,7 @@
 ## About
 Projects are the best way to learn JavaScript, and a calculator is one of the best projects to choose. A calculator covers all the complex interactions with UI and JavaScript while still being simple enough for people of any skill level<br>
 ## THE ODIN PROJECT [Link](https://www.theodinproject.com/lessons/node-path-javascript-library)<br>
-Requirements
+### Requirements
 1.Set up your project with skeleton HTML/CSS and JS files..<br>
 2. All of your book objects are going to be stored in a simple array, so add a function to the script (not the constructor) that can take user’s input and store the new book objects into an array.
 3. Write a function that loops through the array and displays each book on the page. You can display them in some sort of table, or each on their own “card”. It might help for now to manually add a few books to your array so you can see the display.
